@@ -1,0 +1,16 @@
+# Project exclude paths
+/gen/js/target/
+/gen/js/target/scala-2.13/classes/
+/gen/js/target/scala-2.13/test-classes/
+/gen/jvm/target/
+/gen/jvm/target/scala-2.13/classes/
+/gen/jvm/target/scala-2.13/test-classes/
+/playground/target/
+/playground/target/scala-2.13/classes/
+/project/project/target/
+/project/target/
+/target/
+/.idea/
+/gen/.jvm/
+/gen/.js/
+/spa/target/
